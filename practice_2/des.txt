@@ -1,0 +1,1 @@
+pratice 2 -> for classification (decision tree)
