@@ -1,2 +1,0 @@
-REM for Microsoft Visual Studio 2022:
-SET VS90COMNTOOLS=%VS170COMNTOOLS%

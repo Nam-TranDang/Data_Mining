@@ -1,2 +1,0 @@
-REM for Microsoft Visual Studio 2013:
-SET VS90COMNTOOLS=%VS120COMNTOOLS%

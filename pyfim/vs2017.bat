@@ -1,2 +1,0 @@
-REM for Microsoft Visual Studio 2017:
-SET VS90COMNTOOLS=%VS140COMNTOOLS%
